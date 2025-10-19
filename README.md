@@ -42,7 +42,7 @@ sudo nano ~/customer-support-agent/backend/.env
 
 4. **Restart the service:**
 ```bash
-sudo systemctl restart support-agent
+sudo systemctl restart support-agen
 ```
 
 5. **Access your application:**
